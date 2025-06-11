@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="170" src="https://media.licdn.com/dms/image/v2/D5616AQHbFW2QCumwWA/profile-displaybackgroundimage-shrink_350_1400/B56ZchnBItHUAY-/0/1748615567194?e=1755129600&v=beta&t=1FIyWNzkLxvvkS2rd4N3DfbnPR6LHVrrHBQQIiA3nNo"  />
+  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQHbFW2QCumwWA/profile-displaybackgroundimage-shrink_350_1400/B56ZchnBItHUAY-/0/1748615567194?e=1755129600&v=beta&t=1FIyWNzkLxvvkS2rd4N3DfbnPR6LHVrrHBQQIiA3nNo"  />
 </div>
 
 ###
@@ -18,34 +18,30 @@
 
 ###
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+###
+
+<h2 align="left">Connect with me on :</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/keerthan-poojary/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="110" height="40" alt="linkedin logo"  />
   </a>
   <a href="keerthangujaran" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="110" height="40" alt="discord logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="110" height="40" alt="twitter logo"  />
   <a href="keerthanellikar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="110" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h3 align="left">My Projects Higjlights</h3>
+<h3 align="left">My Projects Highlights:</h3>
 
 ###
 
@@ -81,13 +77,19 @@
 
 <br clear="both">
 
-<h6 align="left">Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain.<br>AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make in</h6>
+<h6 align="left">Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain.<br>AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights.</h6>
 
 ###
 
 <br clear="both">
 
 <h4 align="center">And many More.......</h4>
+
+###
+
+<div align="center">
+  <img height="180" src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg"  />
+</div>
 
 ###
 
@@ -98,11 +100,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keerthanpoojaryanalyst/keerthanpoojaryanalyst/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keerthanpoojaryanalyst/keerthanpoojaryanalyst/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg"  />
-</div>
 
 ###
