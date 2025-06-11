@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="210" src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg"  />
+  <img height="170" src="https://media.licdn.com/dms/image/v2/D5616AQHbFW2QCumwWA/profile-displaybackgroundimage-shrink_350_1400/B56ZchnBItHUAY-/0/1748615567194?e=1755129600&v=beta&t=1FIyWNzkLxvvkS2rd4N3DfbnPR6LHVrrHBQQIiA3nNo"  />
 </div>
 
 ###
@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://images.codebasics.io/filters:format(webp)/fit-in/450x450/uploads/learner-portfolio/projects/thumbnail/132484/68392ecf38964/8cd4bb3452.png"  />
+<img align="left" height="150" src="https://images.codebasics.io/filters:format(webp)/fit-in/450x450/uploads/learner-portfolio/projects/thumbnail/132484/68392ecf38964/8cd4bb3452.png"  />
 
 ###
 
@@ -91,10 +91,18 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keerthanpoojaryanalyst/keerthanpoojaryanalyst/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keerthanpoojaryanalyst/keerthanpoojaryanalyst/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keerthanpoojaryanalyst/keerthanpoojaryanalyst/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg"  />
+</div>
 
 ###
